@@ -15,6 +15,5 @@ markdown里有展示图片的需求，不想使用images挨个写文件。所以
 ```
 
 ## 未完成
-- [ ] 部署更新到streamlit cloud
 - [ ] 根据categories或者tags进行目录的区分
 - [ ] 增加文章查询
