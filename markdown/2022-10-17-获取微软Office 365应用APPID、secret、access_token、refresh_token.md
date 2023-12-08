@@ -59,14 +59,14 @@ tags:
 ![执行命令][10]
 ![获取token][11]
 
-[01]: /images/officee5/1.png
-[02]: /images/officee5/2.png
-[03]: /images/officee5/3.png
-[04]: /images/officee5/4.png
-[05]: /images/officee5/5.png
-[06]: /images/officee5/6.png
-[07]: /images/officee5/7.png
-[08]: /images/officee5/8.png
-[09]: /images/officee5/9.png
-[10]: /images/officee5/10.png
-[11]: /images/officee5/11.png
+[01]: app/static/images/officee5/1.png
+[02]: app/static/images/officee5/2.png
+[03]: app/static/images/officee5/3.png
+[04]: app/static/images/officee5/4.png
+[05]: app/static/images/officee5/5.png
+[06]: app/static/images/officee5/6.png
+[07]: app/static/images/officee5/7.png
+[08]: app/static/images/officee5/8.png
+[09]: app/static/images/officee5/9.png
+[10]: app/static/images/officee5/10.png
+[11]: app/static/images/officee5/11.png

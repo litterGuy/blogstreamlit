@@ -86,4 +86,4 @@ Hosted -> Deployment pollcy: 请选择 Allow redeploy 否则无法上传 Docker 
 
 2. 进行另一项工作，Admin - Compact blob store以实际rm从Nexus目录中的文件
 
-[01]: /images/docker/nexus01.png
+[01]: app/static/images/docker/nexus01.png

@@ -40,5 +40,5 @@ connection to server failed, probable Oracle Net admin error
 
 3. 重启Navicat生效
 
-[01]: /images/oracle/oracle.png
-[02]: /images/oracle/oracle1.png
+[01]: app/static/images/oracle/oracle.png
+[02]: app/static/images/oracle/oracle1.png
